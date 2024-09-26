@@ -1,0 +1,156 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+   text-decoration: none;
+  
+}
+a { color: inherit; } 
+.header
+{
+    background-color: #806BDC;
+    color: white;
+    text-align: center;
+    font-size: 35px;
+    font-weight: bolder;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-family: Arial, sans-serif;
+}
+img{
+    display: flex;
+}
+.container
+{
+    margin-top: 18px;
+    display: flex;
+   justify-content: center;
+   gap: 150px;
+   width: 1500px;
+   margin-bottom: 50px;
+   font-size: 22px;
+   font-weight: bolder;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   
+}
+.box
+{
+    width: 80px;
+
+}
+
+figcaption,.tshirt
+{
+    padding-left: 15px;
+    padding-top: 10px;
+}
+figcaption,.sun
+{
+    width: 80px;
+    padding-left: 45px;
+    padding-bottom: 10px;
+   
+}
+figcaption,.glass
+{
+    padding-left: 22px;
+    margin-bottom: -25px;
+}
+figcaption,.shirt
+{
+    padding-top: 12px;
+    padding-left: 20px;
+}
+figcaption,.shoes
+{
+    padding-left: 30px;
+}
+figcaption,.pants
+{
+    padding-left: 20px;
+}
+figcaption,.perfume
+{
+    padding-left: 5px;
+}
+.sunglass
+{
+    margin-bottom: -10px;
+}
+.body
+{
+    background-color: lightgrey ;
+}
+#bigimg
+{
+    padding-left: 70px;
+    padding-top: 40px;
+}
+#upcom
+{
+    text-align: center;
+    padding-top: 50px;
+    font-size: 35px;
+    font-weight: bolder;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-bottom: 30px;
+}
+.table
+{
+    font-size: 25px;
+    padding-bottom: 40px;
+    td:hover{
+        background-color: #a99ddc;
+    }
+   
+    
+}
+.center
+{
+    margin-left: auto;
+    margin-right: auto;
+}
+table,td,th{
+    border: 1px solid rgb(145, 139, 139);
+    border-collapse: collapse;
+}
+th
+{
+    background-color: #806BDC;
+    width: 340px;
+    height: 55px;
+
+}
+tr{
+    height: 55px;
+   
+}
+td{
+    padding-left: 12px;
+}
+
+.list
+{
+    padding-left: 15px;
+}
+.body1
+{
+    padding-left: 30px;
+    padding-top: 20px;
+    color: rgb(145, 142, 142);
+    font-family: Arial, Helvetica, sans-serif;
+}
+p
+{
+    font-size: 13px;
+    max-width: 100%;
+}
+.footer
+{
+    background-color: black;
+    color: white;
+    text-align: center;
+   padding-bottom: 50px;
+   
+}
